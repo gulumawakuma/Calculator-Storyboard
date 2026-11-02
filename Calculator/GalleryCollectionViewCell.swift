@@ -13,6 +13,7 @@ class GalleryCollectionViewCell: UICollectionViewCell {
     
     override class func awakeFromNib() {
         super.awakeFromNib()
+//        Initial code
     }
     
     
